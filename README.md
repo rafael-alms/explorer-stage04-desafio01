@@ -8,3 +8,5 @@ Projeto do curso Explorer da Rocketseat utilizando JavaScript com as seguintes f
 - O resto da divisão dos dois números;
 - Verifica se a soma dos dois números é par (ou ímpar);
 - Verifica se os dois números inseridos são iguais (ou diferentes).
+
+Deploy da aplicação: https://rafael-alms.github.io/explorer-stage04-desafio01/
